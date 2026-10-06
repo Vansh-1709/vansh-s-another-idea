@@ -1,0 +1,6 @@
+{
+  "name": "AlgoArena: Data Structures Quiz & Survival Game",
+  "description": "An interactive, gamified Data Structures quiz challenge covering Arrays, Linked Lists, Trees, and an all-topic Special Gauntlet with scaling difficulty, 3 hearts, and streak combos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
